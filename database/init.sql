@@ -1,0 +1,2 @@
+-- Veritabanı tabloları, FastAPI projemiz başlatılırken SQLAlchemy tarafından otomatik yaratılacağı için bu dosya şimdilik boştur.
+-- Eğer önceden var olması gereken yetkiler vb varsa buraya SQL şeklinde de eklenebilir.
