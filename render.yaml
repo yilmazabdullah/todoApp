@@ -16,4 +16,3 @@ services:
 databases:
   - name: todo-db
     databaseName: todoapp
-    user: postgres
