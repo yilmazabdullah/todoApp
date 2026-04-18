@@ -1,6 +1,7 @@
 services:
   - type: web
     name: todo-backend
+    plan: free
     env: python
     rootDir: backend
     buildCommand: pip install -r requirements.txt
@@ -15,4 +16,5 @@ services:
 
 databases:
   - name: todo-db
+    plan: free
     databaseName: todoapp
